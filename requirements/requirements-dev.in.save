@@ -1,0 +1,5 @@
+-r requirements.in
+
+# other packages installed here, e.g. pytest==3.4.0
+
+
